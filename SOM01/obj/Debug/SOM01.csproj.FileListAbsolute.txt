@@ -1,0 +1,11 @@
+D:\ANN\SOM01\SOM01\bin\Debug\SOM01.exe.config
+D:\ANN\SOM01\SOM01\bin\Debug\SOM01.exe
+D:\ANN\SOM01\SOM01\bin\Debug\SOM01.pdb
+D:\ANN\SOM01\SOM01\bin\Debug\ANN-Lib.dll
+D:\ANN\SOM01\SOM01\bin\Debug\ANN-Lib.pdb
+D:\ANN\SOM01\SOM01\obj\Debug\SOM01.Form1.resources
+D:\ANN\SOM01\SOM01\obj\Debug\SOM01.Properties.Resources.resources
+D:\ANN\SOM01\SOM01\obj\Debug\SOM01.csproj.GenerateResource.Cache
+D:\ANN\SOM01\SOM01\obj\Debug\SOM01.exe
+D:\ANN\SOM01\SOM01\obj\Debug\SOM01.pdb
+D:\ANN\SOM01\SOM01\obj\Debug\SOM01.imageViewer.resources
